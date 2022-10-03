@@ -1,6 +1,6 @@
 site_name: CAMeL Lab Guidelines
-repo_url: https://github.com/slkh/camel-guidelines
-site_url: https://camel-guidelines.rtfd.io
+repo_url: https://github.com/christios/camel-guidelines
+site_url: https://guidelines-chris.readthedocs.io
 site_author: Salam Khalifa
 nav:
     - Home: index.md
